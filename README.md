@@ -6,7 +6,7 @@
 
 I am passionate about creating and customizing Discord servers, designing creative interfaces, and developing interactive widgets/overlays for OBS. I transform ideas into unique digital experiences for content creators and communities.
 
-🌐 **My website:** [nynele.top](https://nynele.top) | 🎵 **Live Music Widget:** [Now Playing & Synced Lyrics](https://nynele.github.io/lanyard-profile-card/)
+🌐 **My website:** [nynele.top](https://nynele.top)
 
 ---
 
@@ -49,16 +49,6 @@ I am passionate about creating and customizing Discord servers, designing creati
 
 ---
 
-### 🎵 Now Playing / Presence
-
-<p align="center">
-  <a href="https://nynele.github.io/lanyard-profile-card/" target="_blank">
-    <img src="https://lanyard-profile-card--nugget-nynele.replit.app/api/lyrics" alt="Discord Presence" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -84,7 +74,5 @@ I am passionate about creating and customizing Discord servers, designing creati
   <a href="mailto:contact.nynele@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-contact.nynele@gmail.com-06B6D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://nynele.github.io/lanyard-profile-card/" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-Live_Lyrics-FF0000?style=flat-square&logo=youtube-music&logoColor=white" alt="Now Playing" />
-  </a>
+
 </p>
