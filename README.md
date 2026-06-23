@@ -60,6 +60,8 @@ I am passionate about creating and customizing Discord servers, designing creati
   <img src="https://streak-stats.demolab.com/?user=Nynele&theme=transparent&hide_border=true&sideNums=e2e8f0&sideTitle=a855f7&stroke=06b6d4&ring=a855f7&fire=a855f7&currStreakNum=e2e8f0" alt="GitHub Streak" width="98%" />
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/799251427839049818?hideTag=true&hideBadges=true&hideTimestamp=true&animatedDecoration=false)](https://discord.com/users/799251427839049818)
+
 ---
 
 ### 📬 Connect with Me
